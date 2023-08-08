@@ -1,0 +1,19 @@
+1691110148753:getBook
+1691110342595:help
+1691110386049:getBooks
+1691110394444:help
+1691110407049:get-books
+1691110540066:get_book
+1691110543812:get-book
+1691110549356:get-books
+1691111371580:help
+1691111397001:get-book-by-name
+1691111416461:geet-book-by-name --name= Pacan
+1691111480898:get-book-by-name --name:"acan"
+1691111543004:get-book-by-name --name Pacan
+1691111583092:get-book --name Pacan
+1691111604348:get-book --name PacanBook
+1691114575686:add-book --id 2 --name Pit
+1691114580792:get-books
+1691115067199:delete-book --id 2
+1691115071345:get-books
